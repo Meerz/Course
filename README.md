@@ -1,2 +1,2 @@
 # Course
-Study project of couresa
+Simple Interest Calculator
